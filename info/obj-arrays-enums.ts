@@ -1,7 +1,7 @@
 
-// function add(num1: number, num2: number) {
-//   return num1 + num2;
-// }
+function add(num1: number, num2: number) {
+  return num1 + num2;
+}
 
 const number1 = 5,
       number2 = 2.5
